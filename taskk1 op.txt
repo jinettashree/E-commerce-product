@@ -1,0 +1,75 @@
+taskk1.js:38 Product details
+taskk1.js:52 Array(0)
+taskk1.js:57 
+Find product by Id(3)
+
+taskk1.js:38 Product details
+taskk1.js:41 productId: 3
+taskk1.js:41 name: zara
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 2000
+taskk1.js:41 stock: 300
+taskk1.js:41 category: School and college use
+taskk1.js:43 tags: woman bags, unisex bags
+taskk1.js:41 discount: [object Object]
+taskk1.js:78 
+Apply discount product(1):
+taskk1.js:38 Product details
+taskk1.js:41 productId: 1
+taskk1.js:41 name: Wildcraft
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 880
+taskk1.js:41 stock: 500
+taskk1.js:41 category: School and college use
+taskk1.js:43 tags: student bags, unisex bags
+taskk1.js:41 discount: [object Object]
+taskk1.js:92 
+Update stock:
+taskk1.js:87 stock for product 3 updated to 32
+taskk1.js:38 Product details
+taskk1.js:41 productId: 3
+taskk1.js:41 name: zara
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 2000
+taskk1.js:41 stock: 32
+taskk1.js:41 category: School and college use
+taskk1.js:43 tags: woman bags, unisex bags
+taskk1.js:41 discount: [object Object]
+taskk1.js:108 
+add tag productid (3)
+taskk1.js:101 tagsNew tag include the 3
+taskk1.js:103 tagNew tag already existed in3
+taskk1.js:38 Product details
+taskk1.js:41 productId: 3
+taskk1.js:41 name: zara
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 2000
+taskk1.js:41 stock: 32
+taskk1.js:41 category: School and college use
+taskk1.js:43 tags: woman bags, unisex bags, New tag
+taskk1.js:41 discount: [object Object]
+taskk1.js:123 
+Remove products:
+taskk1.js:117 product with Id 3 is Removed
+taskk1.js:125 after removing products
+taskk1.js:38 Product details
+taskk1.js:41 productId: 1
+taskk1.js:41 name: Wildcraft
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 880
+taskk1.js:41 stock: 500
+taskk1.js:41 category: School and college use
+taskk1.js:43 tags: student bags, unisex bags
+taskk1.js:41 discount: [object Object]
+taskk1.js:38 Product details
+taskk1.js:41 productId: 2
+taskk1.js:41 name: Skybags
+taskk1.js:41 description: Bags
+taskk1.js:41 price: 2000
+taskk1.js:41 stock: 300
+taskk1.js:41 category: school and college use
+taskk1.js:43 tags: woman bags, unisex bags
+taskk1.js:41 discount: [object Object]
+taskk1.js:136 
+Totalvalue:
+taskk1.js:133 total value[object Object],[object Object]
